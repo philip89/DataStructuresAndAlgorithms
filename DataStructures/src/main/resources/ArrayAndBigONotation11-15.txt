@@ -1,0 +1,27 @@
+Algorithm is not an implementation.
+Big O notation shows how well an algorithm preforms. It is comprised of two things:
+
+1. True complexits is how any steps it takes to run an algorithm
+2. Memory Complexity - Not so much of a big deal these days as memory is not usually short
+
+O(n) -> Linear complexity
+O(1) -> Constant complexity
+O(logn) -> Logarithmic
+O(nlogn) -> Log star n
+O(n2) -> Quadratic
+
+Bog O notation gives a way of cmparing time complexity of diffrent algorithms in an objective way. Hardware independant.
+
+Arrays
+
+Arrsya are stored as  contigious block in memory ->static length
+
+Every element occupies the same space -> Objecs referance are stored so all same size
+
+If we know the index of an element, The time to retrieve it is the same no matter where in the array it is
+
+THIS IS WHY THEY ARE FAST TO SEARCH LIKE THIS
+
+It is alwasy three steps to retrieve am element if we know the starting location of the array.
+
+If we need a loop for array work the it is linear complexity, if no loop is needed then it is constant
