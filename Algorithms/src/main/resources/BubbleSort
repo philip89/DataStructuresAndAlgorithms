@@ -1,0 +1,6 @@
+Brings largest element to the end of the array on every run. Because of this it needs to go over the array multiple times
+
+This is an inplace algorithm, You dont have to create anotehr array to sort using this method
+
+O(n2)
+
