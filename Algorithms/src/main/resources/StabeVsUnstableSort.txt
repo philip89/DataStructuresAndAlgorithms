@@ -1,0 +1,7 @@
+If you have two elements that are the samewhich one will be last in the array afetr it is sorted
+
+Nonpreserved is unstable
+preservedis stable
+
+This wil matter if you sort an array by name first and by age second as the values willnot match
+
