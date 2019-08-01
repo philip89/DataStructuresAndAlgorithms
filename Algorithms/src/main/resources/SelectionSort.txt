@@ -1,0 +1,4 @@
+On each traversal we pick the largest number and bring it to the end of the file,
+
+We only sort once per traversal therefore its faster than bubble sort3
+Unstablealgorithm
